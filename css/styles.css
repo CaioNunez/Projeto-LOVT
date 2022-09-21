@@ -15,12 +15,9 @@ header {
 
 main {
   padding: 10px 45px;
-<<<<<<< HEAD
   display: flex;
   flex-direction: column;
   gap: 30px;
-=======
->>>>>>> 0d55500d3635626a64325773fd723474c58f3bab
 }
 
 .title {
@@ -44,22 +41,14 @@ main {
   background: url("../images/Rectangle1.svg");  
   background-position: center;
   background-repeat: no-repeat;
-<<<<<<< HEAD
   background-size: cover;
-=======
-  background-size: contain;
->>>>>>> 0d55500d3635626a64325773fd723474c58f3bab
 
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
 
-<<<<<<< HEAD
   height: 30vh;
-=======
-  height: 350px;
->>>>>>> 0d55500d3635626a64325773fd723474c58f3bab
   padding: 0px 10px;
   transition: background 0.5s;
 }
@@ -70,15 +59,6 @@ main {
   height: 40px;
   border-radius: 50%;
   border: none;
-<<<<<<< HEAD
-=======
-
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-}
->>>>>>> 0d55500d3635626a64325773fd723474c58f3bab
 
   display: flex;
   flex-direction: row;
@@ -151,7 +131,6 @@ main {
 
 .sales {
   display: flex;
-<<<<<<< HEAD
   flex-direction: column;
   justify-content: space-between;
   align-items: center;
@@ -243,14 +222,10 @@ footer {
   
   display: flex;
   flex-direction: column;
-=======
-  flex-direction: row;
->>>>>>> 0d55500d3635626a64325773fd723474c58f3bab
   justify-content: space-between;
   align-items: center;
 }
 
-<<<<<<< HEAD
 #contacts span {
   font-family: 'Ropa Sans';
   font-style: normal;
@@ -274,11 +249,6 @@ footer {
 @media(min-width: 481px) {
   footer {
     flex-direction: row;
-=======
-@media(min-width: 769px) {
-  .hamburguer-menu {
-    display: none;
->>>>>>> 0d55500d3635626a64325773fd723474c58f3bab
   }
 }
 
